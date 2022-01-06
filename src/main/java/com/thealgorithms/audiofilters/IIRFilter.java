@@ -6,6 +6,8 @@ package com.thealgorithms.audiofilters;
  * Based on the difference equation from
  * https://en.wikipedia.org/wiki/Infinite_impulse_response
  */
+
+ // This is a test to add comment
 public class IIRFilter {
 
     private final int order;
